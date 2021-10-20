@@ -1,9 +1,0 @@
-<html>
-  <head>
-    <title>The 3D model by Heynedi</title>
-  </head>
-  <body>
-    <img alt="image piano" src="pianoHD.png" />
-    <h2 align="center">3D model by Heynedi</h2>
-  </body>
-</html>
